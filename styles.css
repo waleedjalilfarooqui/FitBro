@@ -1,0 +1,241 @@
+/*******TagSelector******/
+p{
+   
+font-family: 'Roboto', sans-serif;
+color: grey
+}
+
+
+
+
+/*********ClassSelector ******/
+
+/*******TEXT******/
+.Navbar-content{
+
+    font-weight: ;
+ 
+}
+
+.main-text{
+  padding-top: 10%;  
+ padding-left: 15%;
+ padding-right: ;
+
+}
+
+.para-1{
+
+position: relative;
+width: 86%;
+top:60px;
+left:100px
+
+}
+/*******Images******/
+.brandicon{
+
+margin-right: 10px;
+width: 30px;
+height: 30px;
+
+
+}
+
+
+/*******ID's******/
+
+#section-1{
+
+   
+}
+#section-2{
+
+    
+}
+#section-4{
+
+background-color: rgb(236, 253, 253);
+}
+/*******Containers******/
+.Navbar1{
+    width: 10%;
+
+}
+.section-1-row{
+padding: 0%;
+
+}
+.section-2-div{
+    height: 500px;
+    background-image: url(Runninglols.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.secton-4-row{
+
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+.section-1-div-1{
+    display: block;
+    position: relative;
+    bottom: 70px;
+    right: 30px;
+   height: auto;
+}
+
+/*******buttons******/
+
+
+.loginbutton{
+
+
+    font-size: small;
+    background-color: #ccc; /* Greyish background color */
+    color: #fff; /* Text color */
+    border: none; /* Remove border */
+    border-radius: 50px; /* Rounded corners */
+    transition: background-color 0.3s ease;
+    padding: 8px;
+    width: 100px;
+    margin-right: 0;
+    height: 40px;
+}
+
+
+.loginbutton:hover {
+    background-color: #007bff; /* Blue background color on hover */
+}
+
+.signupbutton{
+
+    font-size: small;
+    background-color: #ccc; /* Greyish background color */
+    color: #fff; /* Text color */
+    border: none; /* Remove border */
+    border-radius: 50px; /* Rounded corners */
+    transition: background-color 0.3s ease;
+    padding: 8px;
+    width: 100px;
+    margin-right: 0;
+    height: 40px;
+}
+.signupbutton:hover {
+    background-color: #007bff; /* Blue background color on hover */
+}
+
+.btn-1{
+
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    font-weight: lighter;
+    width: 28%;
+    transition: background-color 0.3s ease;
+
+}
+
+.btn-1:hover{
+
+    background-color: #fff;
+    color: black;
+    border-color: #000;
+}
+
+
+.navigation-bar{
+    
+  
+}
+
+.navbar-nav .nav-link{
+    color: #000; /* Black text color */
+    font-weight:500;
+}
+.navbar-brand{
+
+    color: #000; /* Black text color */
+
+}
+
+.navbar-collapse {
+    position: relative;
+}
+
+/* card in section 2 */
+
+.card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.card-header {
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 15px 15px 0 0;
+}
+.card-title {
+    font-weight: bold;
+}
+.progress {
+    height: 10px;
+    margin-bottom: 10px;
+}
+.progress-bar {
+    border-radius: 5px;
+}
+/* Cards in secton 3 */
+
+.card {
+    border: none;
+    border-radius: 10px
+}
+
+.c-details span {
+    font-weight: 300;
+    font-size: 13px
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    background-color: #eee;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 39px
+}
+
+.badge span {
+    background-color: #fffbec;
+    width: 60px;
+    height: 25px;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    display: flex;
+    color: #fed85d;
+    justify-content: center;
+    align-items: center
+}
+
+.progress {
+    height: 10px;
+    border-radius: 10px
+}
+
+.progress div {
+    background-color: red
+}
+
+.text1 {
+    font-size: 14px;
+    font-weight: 600
+}
+
+.text2 {
+    color: #a5aec0
+}
